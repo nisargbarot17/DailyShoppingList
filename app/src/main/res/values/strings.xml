@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyShoppingList</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="don_t_have_account_sign_up_here">Don\'t have account?Sign up here</string>
+    <string name="log_in">Log in</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="already_have_account_sign_in_here">Already have account?Sign in here</string>
+    <string name="reg">Registration</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string-array name="units">
+        <item>Kg</item>
+        <item>Lb</item>
+        <item>Litres</item>
+        <item>Oz</item>
+        <item>dozen</item>
+        <item> </item>
+    </string-array>
+</resources>
