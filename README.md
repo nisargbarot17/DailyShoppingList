@@ -1,6 +1,6 @@
 # ShoppingList
 
-A shopping list ap where you can create lists as the name suggests.
+A shopping list app where you can create lists as the name suggests.
 
 # Funcionalities
 
